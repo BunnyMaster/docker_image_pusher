@@ -1,11 +1,13 @@
 nginx:stable-alpine-perl
 mysql:8.4.0
+postgres:15.7-alpine3.20
+redis:7.4-rc1
+redis:7.0.10
 mcr.microsoft.com/mssql/server:2022-latest
 gitea/gitea:1.22.0
 openjdk:17
 openjdk:18
 openjdk:21
-redis:7.4-rc1
 nacos/nacos-server:v2.3.2
 nacos/nacos-server:v2.1.1-slim
 minio/minio:latest
