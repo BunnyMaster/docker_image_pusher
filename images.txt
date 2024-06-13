@@ -20,7 +20,11 @@ gitea/gitea:1.22.0
 openjdk:17
 openjdk:18
 openjdk:21
+nacos/nacos-server:v2.2.3
+nacos/nacos-server:v2.2.3-slim
 nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.2.2
+nacos/nacos-server:v2.2.2-slim
 nacos/nacos-server:v2.1.1-slim
 nacos/nacos-server:latest
 minio/minio:latest
