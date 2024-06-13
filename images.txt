@@ -1,6 +1,7 @@
 nginx:stable-alpine-perl
 mysql:8.4.0
 postgres:15.7-alpine3.20
+postgres:15-alpine3.20
 redis:7.4-rc1
 redis:7.0.10
 mcr.microsoft.com/mssql/server:2022-latest
