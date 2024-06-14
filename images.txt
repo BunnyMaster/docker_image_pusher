@@ -50,7 +50,6 @@ kibana:7.17.18
 kibana:7.17.17
 kibana:8.12.2
 kibana:8.12.1
-kibana:8.12.0
 kibana:8.11.4
 kibana:8.11.3
 kibana:8.11.2
