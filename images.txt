@@ -62,7 +62,6 @@ jenkins/jenkins:2.452.2-lts
 jenkins/jenkins:lts
 jenkins/jenkins:lts-jdk21
 jenkins/jenkins:2.452.2-lts-jdk21
-jenkins/jenkins:lts-slim-jdk21
 jenkins/jenkins:lts-jdk17
 jenkins/jenkins:2.452.2-jdk21
 jenkins/jenkins:2.452.2-lts-jdk17
