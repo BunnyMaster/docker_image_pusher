@@ -70,11 +70,9 @@ jenkins/jenkins:2.452.2-lts-jdk11
 jenkins/jenkins:2.452.2-jdk11
 jenkins/jenkins:lts-jdk11
 jenkins/jenkins:2.452.2
-verdaccio/verdaccio:nightly-master
 verdaccio/verdaccio:latest
 verdaccio/verdaccio:6.x-next
 verdaccio/verdaccio:5.31.1
-verdaccio/verdaccio:5.31
 verdaccio/verdaccio:5.31
 verdaccio/verdaccio:5.30.3
 verdaccio/verdaccio:5.30.2
@@ -120,11 +118,6 @@ verdaccio/verdaccio:5.19
 verdaccio/verdaccio:5.18
 verdaccio/verdaccio:5.17.0
 verdaccio/verdaccio:5.17
-verdaccio/verdaccio:fix-release
-verdaccio/verdaccio:renovate-5.x-babel-monorepo
-verdaccio/verdaccio:renovate-5.x-yarn-monorepo
-verdaccio/verdaccio:5.x-next
-verdaccio/verdaccio:5
 sonatype/nexus3:latest
 sonatype/nexus3:3.69.0-java17
 sonatype/nexus3:3.69.0-java11
