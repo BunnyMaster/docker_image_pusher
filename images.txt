@@ -70,7 +70,6 @@ jenkins/jenkins:2.452.2-lts-jdk11
 jenkins/jenkins:2.452.2-jdk11
 jenkins/jenkins:lts-jdk11
 jenkins/jenkins:2.452.2
-verdaccio/verdaccio:node22-ci
 verdaccio/verdaccio:nightly-master
 verdaccio/verdaccio:latest
 verdaccio/verdaccio:6.x-next
